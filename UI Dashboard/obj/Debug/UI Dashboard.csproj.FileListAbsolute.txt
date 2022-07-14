@@ -1,0 +1,17 @@
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\bin\Debug\UI Dashboard.exe.config
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\bin\Debug\UI Dashboard.exe
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\bin\Debug\UI Dashboard.pdb
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\UI Dashboard.csproj.AssemblyReference.cache
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\UI Dashboard.csproj.SuggestedBindingRedirects.cache
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\assets\icons.baml
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\MainWindow.g.cs
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\App.g.cs
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\UI Dashboard_MarkupCompile.cache
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\UI Dashboard_MarkupCompile.lref
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\MainWindow.baml
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\UI Dashboard.g.resources
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\UI_Dashboard.Properties.Resources.resources
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\UI Dashboard.csproj.GenerateResource.cache
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\UI Dashboard.csproj.CoreCompileInputs.cache
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\UI Dashboard.exe
+D:\Dev\BACKEND\C#\UI Dashboard\UI Dashboard\obj\Debug\UI Dashboard.pdb
